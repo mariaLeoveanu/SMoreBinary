@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SMoreBinary</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="log_in">Log in</string>
+    <string name="user_name">Username</string>
+    <string name="password_hint">Enter password</string>
+    <string name="register_log_in">Don\'t have an account? Create one now!</string>
+    <string name="create_account">Create an account</string>
+    <string name="logout">Log Out</string>
+    <string name="captured_image">Captured Image</string>
+    <string name="take_image">Take Photo!</string>
+    <string name="register">Register</string>
+    <string name="user">User</string>
+    <string name="pass">Pass</string>
+    <string name="ourusers">ourusers</string>
+</resources>

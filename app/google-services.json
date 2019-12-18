@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "928446812856",
+    "firebase_url": "https://smore-6b5a6.firebaseio.com",
+    "project_id": "smore-6b5a6",
+    "storage_bucket": "smore-6b5a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928446812856:android:8618540aa7755505855a4d",
+        "android_client_info": {
+          "package_name": "com.example.smore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928446812856-deksfs5un72jrpbmei85s8an11e1p0nt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smore",
+            "certificate_hash": "974f6dce724b258ad77d2538bca9a0f1e562a893"
+          }
+        },
+        {
+          "client_id": "928446812856-2k6a2nspvrjqna2t07nmhmtt07u3jet4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWS21WLYCyOGlpoitBErsNjqhRyr5pN-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928446812856-2k6a2nspvrjqna2t07nmhmtt07u3jet4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
